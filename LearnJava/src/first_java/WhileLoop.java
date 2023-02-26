@@ -3,7 +3,8 @@ package first_java;
 public class WhileLoop {
 
 	public static void main(String[] args) {
-		String place = "Brooklyn";
+		//Made changes to place
+		String place = "Queens";
 		int start = 1;
 		
 		while(start<=3)
