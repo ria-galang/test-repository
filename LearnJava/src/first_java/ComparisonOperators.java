@@ -3,7 +3,7 @@ package first_java;
 public class ComparisonOperators {
 
 	public static void main(String[] args) {
-	
+	//These are comparison operators
 		String actual = "Google";
 		String expected = "google";
 		/* == (equal to)
